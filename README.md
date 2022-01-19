@@ -37,3 +37,14 @@ gcc
 ### [問1-6](https://github.com/hiro2001/farst/blob/main/Q1/1-6.c)
 
 1-5で作成したプログラムを改変して、差を絶対値表記にしなさい。
+
+## 問2
+### [問2-1](https://github.com/hiro2001/farst/blob/main/Q2/2-1.c)
+
+整数値を読み込んでその値から5の和、差、積、商を表示させなさい。
+
+### [問2-2](https://github.com/hiro2001/farst/blob/main/Q2/2-2.c)
+
+
+
+
