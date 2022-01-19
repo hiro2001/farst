@@ -45,6 +45,6 @@ gcc
 
 ### [問2-2](https://github.com/hiro2001/farst/blob/main/Q2/2-2.c)
 
-
+読み込んだ２つの値の比率を百分率で表示するプログラムを書きなさい。
 
 
