@@ -7,7 +7,7 @@ int main(void){
   int n;
   printf("値の個数を入力してください。\n");
   scanf("%d", &n)
-  for(i = 0; i >n; i++){
+  for(i = 0; i > n; i++){
     scanf("%lf", &i1);
     i2 += i1;
   }
