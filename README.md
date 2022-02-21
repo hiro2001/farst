@@ -47,4 +47,20 @@ gcc
 
 読み込んだ２つの値の比率を百分率で表示するプログラムを書きなさい。
 
+### [問2-3](https://github.com/hiro2001/farst/blob/main/Q2/2-3.c)
+
+値を４つ入力させ、その平均値を出力するプログラムを書きなさい。
+
+### [問2-4](https://github.com/hiro2001/farst/blob/main/Q2/2-4.c)
+
+2-3.cを改変して平均を求める値の個数を可変にしなさい。
+
+### [問2-5](https://github.com/hiro2001/farst/blob/main/Q2/2-5.c)
+
+2-3.cを改変して平均を求める値の個数を配列を使用して可変にしなさい。
+
+### [問2-6](https://github.com/hiro2001/farst/blob/main/Q2/2-6.c)
+
+
+
 
