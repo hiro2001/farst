@@ -106,16 +106,16 @@ bashファイルの実行の仕方
 
 整数値を読み込んで２の倍数か求めるプログラムを作成しなさい。
 
-### [問3-2](https://github.com/hiro2001/farst/blob/main/Q2/3-2.c)
+### [問3-2](https://github.com/hiro2001/farst/blob/main/Q3/3-2.c)
 
 ２つの整数値を読み込んでそれぞれの値がその値に対して約数であるか求め結果を表示するプログラムを作成しなさい。
 
-### [問3-3](https://github.com/hiro2001/farst/blob/main/Q2/3-3.c)
+### [問3-3](https://github.com/hiro2001/farst/blob/main/Q3/3-3.c)
 
 整数値を読み込ませてその絶対値を表示するプログラムを作成しなさい。
 ※　今回は絶対値の算出にヘッダーを使用しないものとする。
 
-### [問3-4](https://github.com/hiro2001/farst/blob/main/Q2/3-4.c)
+### [問3-4](https://github.com/hiro2001/farst/blob/main/Q3/3-4.c)
 
 整数値を入力させ、その値が基準点に対してどの位置に存在するか表示するプログラもを作成しなさい。
 ※　基準点を可変にできない場合は基準点を０に固定して良いものとする。
