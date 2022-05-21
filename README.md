@@ -93,7 +93,7 @@ bashファイルの実行の仕方
 ### [問2-7](https://github.com/hiro2001/farst/blob/main/Q2/2-7.c)
 
 身長と体重を読み込ませ、BMI値を表示するプログラムを作成しなさい。
-※　BIM値は体重÷身長^2とし、身長はm体重はkgとして計算させなさい。
+※　BIM値は体重÷身長^2とし、身長cm体重はkgとして計算させなさい。
 
 ### [問2-8](https://github.com/hiro2001/farst/blob/main/Q2/2-8.c)
 
