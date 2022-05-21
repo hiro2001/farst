@@ -5,7 +5,7 @@
 int main(void){
   double i1, i2 = 0;
   int i, n;
-  printf("値の個数を入力してください。\n");
+  printf("値の個数を入力してください。\n入力された値の平均を求めます。\n");
   scanf("%d", &n);
   for(i = 0; i < n; i++){
     scanf("%lf", &i1);

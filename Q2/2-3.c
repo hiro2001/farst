@@ -1,6 +1,6 @@
 //値を4つ入力させ、その平均値を出力するプログラムを書きなさい。
 
-#include <studio.h>
+#include <stdio.h>
 
 int main(void){
   double i1, i2, i3, i4, i;
