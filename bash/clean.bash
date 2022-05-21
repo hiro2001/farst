@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cd ..
 cd Q1
 
 rm 1-1

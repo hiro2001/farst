@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cd ..
 cd Q1
 
 gcc 1-1.c -o 1-1
