@@ -102,7 +102,7 @@ bashファイルの実行の仕方
 
 ## 問題3
 
-### [問3-1](https://github.com/hiro2001/farst/blob/main/Q2/3-1.c)
+### [問3-1](https://github.com/hiro2001/farst/blob/main/Q3/3-1.c)
 
 整数値を読み込んで２の倍数か求めるプログラムを作成しなさい。
 
