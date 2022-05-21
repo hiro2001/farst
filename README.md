@@ -97,6 +97,9 @@ bashファイルの実行の仕方
 
 ### [問2-8](https://github.com/hiro2001/farst/blob/main/Q2/2-8.c)
 
+入力した値が一辺の正四面体の体積を求めるプログラムを作成しなさい。
+ただし、math.hヘッダーを用いても良い。
+
 ## 問題3
 
 ### [問3-1](https://github.com/hiro2001/farst/blob/main/Q2/3-1.c)
