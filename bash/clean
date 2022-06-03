@@ -30,5 +30,10 @@ rm 3-1 2>/dev/null
 rm 3-2 2>/dev/null
 rm 3-3 2>/dev/null
 rm 3-4 2>/dev/null
+rm 3-5 2>/dev/null
+rm 3-6 2>/dev/null
+rm 3-7 2>/dev/null
+rm 3-8 2>/dev/null
+rm 3-9 2>/dev/null
 
 cd ..

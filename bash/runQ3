@@ -11,5 +11,6 @@ gcc 3-5.c -o 3-5
 gcc 3-6.c -o 3-6
 gcc 3-7.c -o 3-7
 gcc 3-8.c -o 3-8
+gcc 3-9.c -o 3-9
 
 cd ..
